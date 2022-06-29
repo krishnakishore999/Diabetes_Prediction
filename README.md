@@ -5,4 +5,4 @@ The model predicts wheter a woman suffers with diabetes or not based on the woma
 
 We have analysed the trends and built a tensorflow sequential model.
 
-Flowchart : 
+Flowchart : importing modules --> loading dataset --> data visualization --> scaling and randomsampling --> splitting test,train and dev sets -->building the model -->testing on test data
